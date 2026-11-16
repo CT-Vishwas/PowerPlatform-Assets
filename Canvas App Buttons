@@ -1,0 +1,34 @@
+# Canvas App Functions
+
+
+- Report Issue Button
+
+```text
+Set(varSelectedAsset, ThisItem); 
+Navigate(TicketScreen, ScreenTransition.Fade)
+```
+
+- Submit Button
+
+```text
+Patch(
+    'IT Tickets',
+    Defaults('IT Tickets'),
+    {
+        'Ticket Title': txtTitle.Text,
+        Description: txtDesc.Text,
+        'Requester Email': User().Email,
+        'Related Asset': varSelectedAsset,
+        'Ticket Status': 'Ticket Status (IT Tickets)'.Open,
+        Priority: Switch(
+            ddPriority.Selected.Value,
+            "Low", 'Priority (IT Tickets)'.Low,
+            "Medium", 'Priority (IT Tickets)'.Medium,
+            "High", 'Priority (IT Tickets)'.High,
+            'Priority (IT Tickets)'.Critical
+        )
+    }
+);
+Notify("IT Ticket logged successfully!", NotificationType.Success);
+Navigate(HomeScreen)
+```
