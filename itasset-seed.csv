@@ -1,0 +1,26 @@
+Asset Tag,Device Model,Category,Status,Purchase Date,Warranty Expiry
+LAP-201,Dell Latitude 5520,Laptop,Available,2023-01-15,2026-01-15
+LAP-202,Lenovo ThinkPad X1 Carbon,Laptop,Available,2023-03-10,2026-03-10
+LAP-203,Apple MacBook Pro 14,Laptop,In Repair,2023-04-05,2026-04-05
+LAP-204,HP ZBook Firefly 15 G8,Laptop,Available,2023-05-01,2026-05-01
+LAP-205,HP EliteBook 840 G9,Laptop,Available,2024-01-10,2027-01-10
+LAP-206,Dell Latitude 7440,Laptop,Available,2024-02-15,2027-02-15
+LAP-207,Lenovo ThinkPad T14,Laptop,Retired,2021-06-01,2024-06-01
+LAP-208,Apple MacBook Air 13,Laptop,Available,2024-03-20,2027-03-20
+MON-201,Dell UltraSharp U2723DE,Monitor,Available,2023-02-01,2026-02-01
+MON-202,LG 27UP850,Monitor,Available,2023-02-05,2026-02-05
+MON-203,ASUS ProArt PA278CV,Monitor,In Repair,2023-02-10,2026-02-10
+MON-204,HP E24 G5,Monitor,Available,2024-04-12,2027-04-12
+MON-206,Lenovo ThinkVision T27,Monitor,Retired,2021-08-15,2024-08-15
+MOB-201,Apple iPhone 15,Mobile,Available,2024-05-10,2026-05-10
+MOB-202,Samsung Galaxy S24,Mobile,Available,2024-06-01,2026-06-01
+MOB-203,Google Pixel 8,Mobile,In Repair,2024-06-15,2026-06-15
+MOB-204,Apple iPhone 13,Mobile,Retired,2021-11-01,2023-11-01
+ACC-201,Logitech MX Master 3S,Accessory,Available,2023-03-01,2025-03-01
+ACC-202,Corsair K95 Platinum XT,Accessory,Available,2023-03-05,2025-03-05
+ACC-203,Kensington SD4700P Dock,Accessory,Available,2023-03-10,2026-03-10
+ACC-204,Dell Dock WD19,Accessory,Available,2023-02-15,2026-02-15
+ACC-205,Apple AirPods Pro,Accessory,In Repair,2023-04-10,2025-04-10
+ACC-206,Logitech C920 Webcam,Accessory,Available,2024-01-20,2026-01-20
+ACC-207,Jabra Evolve2 65 Headset,Accessory,Available,2024-02-14,2026-02-14
+ACC-208,Microsoft Surface Dock 2,Accessory,Retired,2021-09-01,2024-09-01
